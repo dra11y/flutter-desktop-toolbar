@@ -1,0 +1,22 @@
+PODS:
+  - desktop_toolbar (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - desktop_toolbar (from `Flutter/ephemeral/.symlinks/plugins/desktop_toolbar/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  desktop_toolbar:
+    :path: Flutter/ephemeral/.symlinks/plugins/desktop_toolbar/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  desktop_toolbar: a66675536ec818795ae77017b95ac5b490b1b4d5
+  FlutterMacOS: ae6af50a8ea7d6103d888583d46bd8328a7e9811
+
+PODFILE CHECKSUM: 0d3963a09fc94f580682bd88480486da345dc3f0
+
+COCOAPODS: 1.11.3
